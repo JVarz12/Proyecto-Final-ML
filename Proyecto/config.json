@@ -1,0 +1,17 @@
+{
+  "pipeline_config": {
+    "data_path": "Base_de_datos.csv",
+    "model_path": "mlops_pipeline/models/",
+    "output_path": "mlops_pipeline/outputs/",
+    "log_path": "mlops_pipeline/logs/"
+  },
+  "model_config": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "validation_size": 0.2
+  },
+  "api_config": {
+    "host": "localhost",
+    "port": 8000
+  }
+}
