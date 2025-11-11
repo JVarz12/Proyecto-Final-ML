@@ -1,5 +1,11 @@
 # Proyecto Final de Machine Learning – Pipeline MLOps
 
+Realizado por Jesús Andrés Vargas Zerpa
+Curso: Machine Learning
+Profesor: Juan Sebastian Parra
+
+Universidad Católica Luis Amigó
+
 ## 1. Descripción general
 Este repositorio implementa un flujo completo de MLOps para predecir el estado académico de estudiantes universitarios (`Dropout`, `Enrolled`, `Graduate`). El dataset proviene de Kaggle (“Predict Students' Dropout and Academic Success”) y contiene 4.424 registros y 37 atributos que describen información demográfica, socioeconómica y académica.
 
