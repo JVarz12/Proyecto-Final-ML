@@ -1,4 +1,5 @@
 {
+  "project_code": "proyecto_ml",
   "pipeline_config": {
     "data_path": "Base_de_datos.csv",
     "model_path": "mlops_pipeline/models/",

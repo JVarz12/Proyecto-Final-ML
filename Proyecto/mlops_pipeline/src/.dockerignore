@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.git/
+mlops_pipeline/outputs/
+mlops_pipeline/models/*.joblib
+mlops_pipeline/models/*.pkl
+

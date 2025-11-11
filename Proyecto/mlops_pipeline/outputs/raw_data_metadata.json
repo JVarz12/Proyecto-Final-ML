@@ -1,0 +1,305 @@
+{
+  "dataset_name": "student_dropout_retention",
+  "source_file": "C:\\Users\\jesus\\OneDrive\\Documentos\\Proyecto Final ML\\Proyecto\\Base_de_datos.csv",
+  "extraction_timestamp": "2025-11-11T01:20:59.173187Z",
+  "row_count": 4424,
+  "column_count": 37,
+  "columns": [
+    {
+      "columna": "Admission grade",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 620,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Age at enrollment",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 46,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Application mode",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 18,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Application order",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 8,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Course",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 17,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 1st sem (approved)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 23,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 1st sem (credited)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 21,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 1st sem (enrolled)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 23,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 1st sem (evaluations)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 35,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 1st sem (grade)",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 805,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 1st sem (without evaluations)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 11,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 2nd sem (approved)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 20,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 2nd sem (credited)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 19,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 2nd sem (enrolled)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 22,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 2nd sem (evaluations)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 30,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 2nd sem (grade)",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 786,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Curricular units 2nd sem (without evaluations)",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 10,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Daytime/evening attendance\t",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Debtor",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Displaced",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Educational special needs",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Father's occupation",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 46,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Father's qualification",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 34,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "GDP",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 10,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Gender",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Inflation rate",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 9,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "International",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Marital status",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 6,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Mother's occupation",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 32,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Mother's qualification",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 29,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Nacionality",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 21,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Previous qualification",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 17,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Previous qualification (grade)",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 101,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Scholarship holder",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Target",
+      "dtype_pandas": "object",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 3,
+      "tipo_inferido": "categórica"
+    },
+    {
+      "columna": "Tuition fees up to date",
+      "dtype_pandas": "int64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 2,
+      "tipo_inferido": "numérica"
+    },
+    {
+      "columna": "Unemployment rate",
+      "dtype_pandas": "float64",
+      "nulos": 0,
+      "porcentaje_nulos": 0.0,
+      "valores_únicos": 10,
+      "tipo_inferido": "numérica"
+    }
+  ]
+}
